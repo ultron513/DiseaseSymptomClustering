@@ -6,6 +6,7 @@ Project Structure
 disease_clustering.ipynb – Main Jupyter notebook containing all steps
 
 symptoms_dataset.csv – Input dataset of diseases and symptoms
+(Source for the Dataset to download: https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset?resource=download)
 
 requirements.txt – Python package dependencies
 
