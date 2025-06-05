@@ -1,4 +1,5 @@
 Disease Symptom Clustering using Unsupervised Learning
+
 This project applies unsupervised machine learning to group diseases based on their symptom patterns. Using clustering algorithms like KMeans and dimensionality reduction via t-SNE, it helps uncover natural groupings of diseases with similar symptoms — a step toward better understanding and diagnosing disease correlations in healthcare data.
 
 Project Structure
